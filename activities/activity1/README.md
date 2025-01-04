@@ -1,48 +1,38 @@
-# CST339 - Activity 1
+# Topic 1 - Spring Tools Installation and Validation
 
-- Date:  2024 December 19
-- Author:  Robert Estey
+- This week we are learning about the Spring Tools Suite (STS) and Maven
 
-## Introduction
+## Tools / Resources
 
-- This activity will be installing the [Spring Tool Suite (STS)](https://spring.io/tools) on a local computing environment, creating a Spring Boot project and execute a simple **Hello World** application
-- The [Maven (MVN)](https://gitlab.com/bobby.estey/wikibob/-/blob/master/docs/maven/README.md?ref_type=heads) tool is an open-source build automation and project management tool that will be used for building projects in this course
-- The Project Object Model (POM) an eXtensible Markup Language (XML) file is utilized for project configurations
+- Spring Tools, Eclipse and/or Visual Studio Code (VSC) Integrated Development Environments (IDE) are the tools we can utilize in this course
 
-## Screenshots
+## NOTE:  Git and Markdown (highly suggested, NOT REQUIRED to use Markdown as all your Documentation versus Office)
 
-- This is a screenshot of the Spring Tool Suite About Box
+- [Markdown Link](https://gitlab.com/bobby.estey/wikibob/-/blob/master/docs/markdown/README.md?ref_type=heads)
 
-![Spring Tool Suite About Box](springToolSuiteAboutBox.png)
+#### Directory Setup
 
-- This is a screenshot of the Console Output
+- If you are utilizing Git and Markdown, I would highly suggest set up the architecture as follows:
 
-![Console Output](consoleOutput.png)
+|Directory|Description|
+|--|--|
+|c:\git\cst339|top level directory|
+|c:\git\cst339\activities|top level activities directory|
+|c:\git\cst339\activities\activity1..n|each activity will be inside the specific activity topic, e.g. activity1, activity2, ...|
+|c:\git\cst339\milestones|top level milestones directory|
+|c:\git\cst339\milestones\milestone1..n|each milestone will be inside the specific milestone, e.g. milestone1, milestone2, ...|
 
-- This is a screenshot of the Whitelabel Error Page
+```
+                             c:\git\cst339
+                                   |
+            ------------------------------------------------
+            activities                            milestones
+                |                                      |
+---------------------------------     ------------------------------------
+activity1 activity2 ... activity7     milestone1 milestone2 ... milestone7
+```
 
-![Whitelable Error Page](whitelabelErrorPage.png)
+## Examples:
 
-- This is a screenshot of the Hello World **index.html** page
-
-![Hello World - Index Page](helloworld.png)
-
-- This is a screenshot of the Maven Build configurations
-
-![Maven Build](mavenBuild.png)
-
-- This is a screenshot of the Maven Console, with a **BUILD SUCCESS**
-
-![Maven Console](mavenConsole.png)
-
-- This is a screenshot of the Java ARchive (JAR) file Execution
-
-![JAR Execution](jarExecution.png)
-
-## Research Questions
-
-- Place Research Questions here
-
-## Conclusion
-
-- Place a Conclusion here
+- [Activity 1](./docs/README.md)
+- [Milestone 1](./docs/milestone01.md)
