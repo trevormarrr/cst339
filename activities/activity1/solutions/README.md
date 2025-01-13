@@ -27,26 +27,16 @@
 
 ![Hello World - Index Page](pt4.png)
 
-- This is a screenshot of the Maven Build configurations
-
-![Maven Build](mavenBuild.png)
-
-- This is a screenshot of the Maven Console, with a **BUILD SUCCESS**
-
-![Maven Console](mavenConsole.png)
-
-- This is a screenshot of the Java ARchive (JAR) file Execution
-
-![JAR Execution](jarExecution.png)
-
 ## Research Questions
 
-1. Research Spring Boot. Compare building dynamic web applications when using Spring Boot versus just using the Spring framework. How do they differ?
-- ANSWER HERE
+**1. Research Spring Boot. Compare building dynamic web applications when using Spring Boot versus just using the Spring framework. How do they differ?**
+- Spring Boot simplifies the process of building dynamic web applications compared to the traditional Spring Framework by eliminating much of the manual configuration. Spring Boot provides auto-configuration, embedded web servers, and production-ready features like health checks and metrics, making it easier to set up and deploy applications. In contrast, the Spring Framework requires developers to manually configure components such as web servers and beans, often resulting in more boilerplate code. Spring Boot’s embedded server and sensible defaults streamline development, while the Spring Framework gives developers more control at the cost of complexity.
 
-2. Research Gradle, which is another popular build and dependency management tool. How does it differ from Maven?
-- ANSWER HERE
+
+
+**2. Research Gradle, which is another popular build and dependency management tool. How does it differ from Maven?**
+- Gradle and Maven are both build automation tools used in Java projects, but they differ in their configuration and performance. Maven uses XML for configuration, which can be verbose, while Gradle uses a more concise and flexible Groovy or Kotlin-based DSL. Gradle is known for its superior performance, supporting incremental builds and parallel execution, which makes it faster than Maven, particularly for large projects. Although Maven has a larger ecosystem and community, Gradle offers greater customization and flexibility, making it suitable for complex projects that need fine-grained control over the build process.
 
 ## Conclusion
 
-- Place a Conclusion here
+- This was a semi-difficult assignment as most of the items were recorded from a different IDE and i had todo a lot of manual translating to work for my IDE: VS Code. Overall the assignment was a good refresher on what Maven is and how we will use it this semester with Spring Boot.
