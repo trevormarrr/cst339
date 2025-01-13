@@ -17,15 +17,15 @@
 
 - This is a screenshot of the Console Output
 
-![Console Output](consoleOutput.png)
+![Console Output](pt2.png)
 
 - This is a screenshot of the Whitelabel Error Page
 
-![Whitelable Error Page](whitelabelErrorPage.png)
+![Whitelable Error Page](pt3.png)
 
 - This is a screenshot of the Hello World **index.html** page
 
-![Hello World - Index Page](helloworld.png)
+![Hello World - Index Page](pt4.png)
 
 - This is a screenshot of the Maven Build configurations
 
@@ -41,7 +41,11 @@
 
 ## Research Questions
 
-- Place Research Questions here
+1. Research Spring Boot. Compare building dynamic web applications when using Spring Boot versus just using the Spring framework. How do they differ?
+- ANSWER HERE
+
+2. Research Gradle, which is another popular build and dependency management tool. How does it differ from Maven?
+- ANSWER HERE
 
 ## Conclusion
 
