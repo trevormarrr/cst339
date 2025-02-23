@@ -9,6 +9,36 @@
             "projectName": "topic2_1",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic31Application<topic3_1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.gcu.topic3_1.Topic31Application",
+            "projectName": "topic3_1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic22Application<topic2_2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.gcu.topic2_2.Topic22Application",
+            "projectName": "topic2_2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic32Application<topic3_2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.gcu.topic3_2.Topic32Application",
+            "projectName": "topic3_2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
