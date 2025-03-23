@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic51Application<topic5_1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.gcu.topic5_1.Topic51Application",
+            "projectName": "topic5_1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
