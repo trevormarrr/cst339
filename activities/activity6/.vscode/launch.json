@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic51Application<topic6_1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.gcu.topic6_1.Topic51Application",
+            "projectName": "topic6_1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic61Application<topic6_1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.gcu.topic6_1.Topic61Application",
+            "projectName": "topic6_1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic64Application<topic6_4>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.gcu.topic6_4.Topic64Application",
+            "projectName": "topic6_4",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
