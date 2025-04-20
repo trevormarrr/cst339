@@ -1,0 +1,80 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic71aApplication<topic7-1a>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cst339.Topic71aApplication",
+            "projectName": "topic7-1a",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic71bApplication<topic7-1b>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cst339.Topic71bApplication",
+            "projectName": "topic7-1b",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic71cApplication<topic7-1c>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cst339.Topic71cApplication",
+            "projectName": "topic7-1c",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic72esApplication<topic7-2es>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cst339.Topic72esApplication",
+            "projectName": "topic7-2es",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=64046 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=topic7-2es"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic72aApplication<topic7-2a>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cst339.Topic72aApplication",
+            "projectName": "topic7-2a",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=64059 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=topic7-2a"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic72bApplication<topic7-2b>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cst339.Topic72bApplication",
+            "projectName": "topic7-2b",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Topic72cApplication<topic7-2c>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cst339.Topic72cApplication",
+            "projectName": "topic7-2c",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
